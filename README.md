@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anshikatyagi729.wixsite.com/anshika-tyagi](https://anshikatyagi729.wixsite.com/anshika-tyagi)
 
-- 💬 Ask me about **Data Analysis, Data Visualization**
+- 💬 Ask me about **Data Analytics, Data Visualization,SQL**
 
 - 📫 How to reach me **anshikatyagi729@gmail.com**
 
