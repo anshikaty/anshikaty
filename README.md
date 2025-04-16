@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://anshikatyagi729.wixsite.com/anshika-tyagi](https://anshikatyagi729.wixsite.com/anshika-tyagi)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/anshika-tyagi21](www.linkedin.com/in/anshika-tyagi21)
 
 - 💬 Ask me about **Data Analytics, Data Visualization,SQL**
 
