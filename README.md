@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaty&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaty" /> </p>
+
 
 - I’m actively learning **Generative AI**,**Data Science** and world of **Agentic AI**.
 
