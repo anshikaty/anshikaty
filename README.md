@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anshika Tyagi</h1>
-<h3 align="center">A passionate Future Data Analyst from India</h3>
+<h3 align="center">A passionate Data and AI Explorer </h3>
 <img align="right" alt="Data Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:540/1*J_EXEmUkOcg-rgzJudUhZQ.png">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaty&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaty" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- I’m actively learning **Generative AI**,**Data Science** and world of **Agentic AI**.
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/anshika-tyagi21](www.linkedin.com/in/anshika-tyagi21)
-
-- 💬 Ask me about **Data Analytics, Data Visualization,SQL**
-
-- 📫 How to reach me **anshikatyagi729@gmail.com**
+- How to reach me **anshikatyagi729@gmail.com** or via linkedin [www.linkedin.com/in/anshika-tyagi21](www.linkedin.com/in/anshika-tyagi21)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
