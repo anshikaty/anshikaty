@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshika Tyagi</h1>
 <h3 align="center">A passionate Data and AI Explorer </h3>
-<img align="right" alt="Data Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:540/1*J_EXEmUkOcg-rgzJudUhZQ.png">
+
 
 
 
